@@ -75,6 +75,5 @@ This sorts the array in a single pass without using extra space.
 
 Implemented in **Java**.
 
-### Suggested Folder Structure
 
 
