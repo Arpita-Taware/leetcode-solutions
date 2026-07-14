@@ -79,12 +79,4 @@ where:
 
 Implemented in **Java**.
 
-### Suggested Folder Structure
 
-```text
-leetcode-solutions/
-└── Java/
-    └── 0867-Transpose-Matrix/
-        ├── Solution.java
-        └── README.md
-```
