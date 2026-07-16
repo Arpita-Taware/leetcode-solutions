@@ -89,5 +89,5 @@ Implemented in **Java**.
 * **Step 2:** Reverse each row using two pointers.
 * Achieves the required rotation without using extra space.
 
-### Suggested Folder Structure
+
 
