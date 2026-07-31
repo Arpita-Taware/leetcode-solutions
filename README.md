@@ -76,10 +76,10 @@ leetcode/
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy       |      7 |
-| Medium     |      8 |
+| Easy       |      10 |
+| Medium     |      12 |
 | Hard       |     ⏳ |
-| **Total**  |     15 |
+| **Total**  |     22 |
 
 > *This table will be updated regularly as I solve more problems.*
 
