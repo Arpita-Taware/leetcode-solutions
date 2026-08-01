@@ -77,9 +77,9 @@ leetcode/
 | Difficulty | Solved |
 | ---------- | -----: |
 | Easy       |      10 |
-| Medium     |      12 |
+| Medium     |      13 |
 | Hard       |     ⏳ |
-| **Total**  |     22 |
+| **Total**  |     23 |
 
 > *This table will be updated regularly as I solve more problems.*
 
